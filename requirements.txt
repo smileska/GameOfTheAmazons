@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pygame
+jupyter
+notebook
+scipy
